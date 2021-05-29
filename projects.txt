@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Carter & Co</title>
+        <meta name="description" content="Current Projects">
+        <meta name="author" content="About Me">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+
+        <header>
+            <h1>Carter & Co  </h1>
+            <h2>Current Projects </h2>
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="Projects.html">Projects</a>
+                <a href="lady legends.html">The 8%</a>
+                <a href="about me.html">About Me</a>
+                <a href="contact.html">Contact Me</a>
+            </nav>
+        </header>
+</body>
+<main>
+    <section>
+        <div>
+            <h1>
+                The only programming joke I know is my code   
+            </h1>
+        </div>
+    </section>
+    <section>
+        <div>
+            <h2> HTML & CSS </h2>
+            <p> I would insert an example but this is kind of it.  
+            </p>
+            <button type="submit">Snoop Dogg</button>
+        </div>
+            <h2> Python Pitch </h2>
+            <p> Super interesting Python Project 
+            </p>
+            <button type="submit">Join the Chaos</button>
+        <div>
+            <h2> Django Unchained  </h2>
+            <p> Super interesting Python Project 
+            </p>
+            <button type="submit">Mrs Mangle</button>
+        </div>
+            <h2> React JavaScript </h2>
+            <p> Super interesting React JavaScript Project 
+            </p>
+            <button type="submit">Join the Chaos</button>
+</main>
+
+        <footer>
+            Website built by Carter&Co.
+        </footer>
+    </body>
+
+</html>
